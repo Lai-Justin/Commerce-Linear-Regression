@@ -1,4 +1,4 @@
-# Ecommerce Storefront Linear Regression Analysis
+# Ecommerce Storefront Linear Regression and Data Analysis
 
 ## Description
 
