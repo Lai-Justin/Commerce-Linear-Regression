@@ -395,7 +395,7 @@ print('RMSE:', np.sqrt(metrics.mean_squared_error(y_test, predictions)))
     RMSE: 8.933815066978633
     
 
-With a Root Mean Squared Error 71x less than the mean Yearly Amount Spent, we can be confident in the Linear Regression model that we trained.
+With a Root Mean Squared Error 71x less than the mean Yearly Amount Spent(at 499), we can be confident in the Linear Regression model that we trained.
 
 
 ```python
