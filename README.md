@@ -236,7 +236,6 @@ sns.jointplot(x='Time on Website',y='Yearly Amount Spent',data=customers)
 
 
 
-    <seaborn.axisgrid.JointGrid at 0x2241176db10>
 
 
 
@@ -254,7 +253,6 @@ sns.jointplot(x='Time on App',y='Yearly Amount Spent',data=customers)
 
 
 
-    <seaborn.axisgrid.JointGrid at 0x22411a6ab10>
 
 
 
@@ -262,6 +260,9 @@ sns.jointplot(x='Time on App',y='Yearly Amount Spent',data=customers)
     
 ![png](output_13_1.png)
     
+
+
+Comparing the two plots of Time on App and Time on Website vs Yearly Amount Spent, we can see that there seems to some correlation of Time on App and spending, while there is nearly no correlation with Time on Website.
 
 
 
@@ -272,7 +273,7 @@ sns.jointplot(x='Time on App',y='Length of Membership',kind='hex',data=customers
 
 
 
-    <seaborn.axisgrid.JointGrid at 0x2240f495810>
+
 
 
 
@@ -290,7 +291,6 @@ sns.pairplot(customers)
 
 
 
-    <seaborn.axisgrid.PairGrid at 0x22411a54c90>
 
 
 
@@ -310,7 +310,6 @@ sns.lmplot(x='Length of Membership',y='Yearly Amount Spent',data=customers)
 
 
 
-    <seaborn.axisgrid.FacetGrid at 0x23275fbd390>
 
 
 
