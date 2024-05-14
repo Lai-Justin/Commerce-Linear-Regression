@@ -2,7 +2,7 @@
 
 ## Description
 
-An online clothing retailer in New York City operates by running a small in-person gallery where customers can see and try on clothes before making their order either on a mobile app or a website. The company is hoping to increase their sales by improving the customer experience on their their online storefronts but due to budget restrictions, they can only focus on one online storefront at this current time. By analyzing customer purchase data, we can use linear regression to model which storefront the company should work on improving first.
+An online clothing retailer in New York City operates by running a small in-person gallery where customers can see and try on clothes before making their order via a mobile app or a website. The company is hoping to increase its sales by improving the customer experience on its online storefronts but due to budget restrictions, they can only focus on one online storefront at this current time. By analyzing customer purchase data, we can use linear regression to model which storefront the company should work on improving first.
 
 ## Code
 
